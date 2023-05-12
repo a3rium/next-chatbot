@@ -1,1 +1,1 @@
-## A simple Next.JS ChatBot app using OpenAi APIs
+## A simple Next.JS ChatBot app using OpenAI APIs
